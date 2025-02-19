@@ -19,8 +19,8 @@ This repository contains a Jupyter notebook for analyzing motor vehicle collisio
 ## Running the Notebook:
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
 
-2. **Option 1:** Load the Data Directly from the URL (if supported by NYC OpenData)
-   
+2. **Downloading the Data:** Load the Data Directly from the URL 
+
    You can attempt to load the dataset directly using the following code:
 
    ```python
