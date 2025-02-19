@@ -17,7 +17,7 @@ This repository contains a Jupyter notebook for analyzing motor vehicle collisio
    - **Option 2:** Place the dataset in the same directory as the notebook if you're running it **locally** (e.g., in VSCode, JupyterLab, or another environment).
 
 ## Running the Notebook:
-1. Open the notebook in [Google Colab](https://colab.research.google.com/).
+1. Open the notebook in [Google Collab](https://colab.research.google.com/).
 
 2. **Downloading the Data:** Load the Data Directly from the URL 
 
