@@ -10,7 +10,7 @@ As part of this project, I created a **poster presentation** that highlights key
 This repository contains a Jupyter notebook for analyzing motor vehicle collisions in New York City. To run the notebook, follow the steps below:
 
 ## Prerequisites:
-1. Download the dataset manually from [NYC OpenData](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). 
+1. Download the dataset manually as shown below under the section of running the notebook.
 
 2. Once downloaded, you have two options:  
    - **Option 1:** Upload the dataset to your **Google Drive** (recommended for Google Colab users).  
@@ -22,6 +22,8 @@ This repository contains a Jupyter notebook for analyzing motor vehicle collisio
 2. If you uploaded the dataset to Google Drive, **use this code** to mount your drive and read the file:
 
    ```python
+   csv_url = "https://data.cityofnewyork.us/resource/h9gi-nx95.csv"
+   data = pd.read_csv(csv_url)
    from google.colab import drive
    drive.mount('/content/drive')
 
