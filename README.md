@@ -1,5 +1,12 @@
 # nyc-motor-vehicle-collisions
 
+## Project Summary
+This project analyzes motor vehicle collisions in New York City using data from NYC OpenData. The goal is to identify trends, contributing factors, and patterns in accidents that could help inform policy changes and improve road safety.
+
+As part of this project, I created a **poster presentation** that highlights key findings from the analysis. You can view the poster here:
+
+📌 [View Project Poster](TDSP_Poster.pdf)  
+
 This repository contains a Jupyter notebook for analyzing motor vehicle collisions in New York City. To run the notebook, follow the steps below:
 
 ## Prerequisites:
